@@ -1,14 +1,14 @@
 export default {
   widgets: [
     {
-      name: 'gatsby',
+      name: "gatsby",
       options: {
         instances: [
           {
-            instanceUrl: 'https://example-company-website-gatsby-sanity-combo-2283414733.gtsb.io/'
+            instanceUrl: "https://example-company-website-gatsby-sanity-combo-2283414733.gtsb.io/"
           }
         ]
       }
     }
   ]
-}
+};
